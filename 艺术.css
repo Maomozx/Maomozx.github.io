@@ -1,0 +1,782 @@
+body{background-color: black;
+background-size:cover;
+}
+
+@keyframes yc{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+       
+    }
+ 
+}
+.sb1{
+    animation-name: yc;
+    animation-delay: 0.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size:10vw;
+}
+.sb2{
+    animation-name: yc;
+    animation-delay: 10.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:1500px;
+    bottom: 0px;
+    left: 312px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: large;
+}
+.sb3{
+    animation-name: yc;
+    animation-delay: 20.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:2100px;
+    bottom: 0px;
+    left: 130px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.ysbj1{
+    animation-name: yc;
+    animation-delay: 1.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 0px;
+    left: 500px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font: size 2vw;;
+}
+.ysbj2{
+    animation-name: yc;
+    animation-delay: 11.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 0px;
+    left: 0px;
+    right: 700px;
+    margin:auto;
+    color: white; 
+    font-size: 8vw;
+}
+.ysbj3{
+    animation-name: yc;
+    animation-delay: 21.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:510px;
+    bottom: 0px;
+    left: 0px;
+    right: 230px;
+    margin:auto;
+    color: white; 
+    font-size: 50px;
+}
+.kj1{
+    animation-name: yc;
+    animation-delay: 2.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 100px;
+    left: 0px;
+    right: 800px;
+    margin:auto;
+    color: white; 
+    font-size: 2cm;
+}
+.kj2{
+    animation-name: yc;
+    animation-delay: 12.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 1090px;
+    left: 0px;
+    right: 213px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.kj3{
+    animation-name: yc;
+    animation-delay:22.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:2130px;
+    bottom: 0px;
+    left: 170px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: medium;
+}
+.szdm1{
+    animation-name: yc;
+    animation-delay: 3.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 1500px;
+    left: 0px;
+    right: 300px;
+    margin:auto;
+    color: white; 
+    font-size:3ex;
+}
+.szdm2{
+    animation-name: yc;
+    animation-delay: 13.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 78px;
+    left: 546px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-small;
+}
+.szdm3{
+    animation-name: yc;
+    animation-delay: 23.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:458px;
+    bottom: 0px;
+    left: 124px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: 9fr;
+}
+.yx1{
+    animation-name: yc;
+    animation-delay: 4.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:1290px;
+    bottom: 0px;
+    left: 0px;
+    right: 700px;
+    margin:auto;
+    color: white; 
+    font-size: large;
+}
+.yx2{
+    animation-name: yc;
+    animation-delay: 14.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 310px;
+    left: 624px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: 3pt;
+}
+.yx3{
+    animation-name: yc;
+    animation-delay: 24.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 1243px;
+    left: 0px;
+    right: 234px;
+    margin:auto;
+    color: white; 
+    font-size: small;
+}
+.cz1{
+    animation-name: yc;
+    animation-delay: 5.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 5000px;
+    left: 0px;
+    right: 1000px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.cz2{
+    animation-name: yc;
+    animation-delay: 15.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 2345px;
+    left: 0px;
+    right: 984px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.cz3{
+    animation-name: yc;
+    animation-delay: 25.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:900px;
+    bottom: 0px;
+    left: 324px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: smaller;
+}
+.zx1{
+    animation-name: yc;
+    animation-delay: 6.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:1250px;
+    bottom: 0px;
+    left: 0px;
+    right: 212px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.zx2{
+    animation-name: yc;
+    animation-delay: 16.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:2433px;
+    bottom: 0px;
+    left:500px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: 10vw;
+}
+.zx3{
+    animation-name: yc;
+    animation-delay: 26.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 1000px;
+    left: 0px;
+    right: 100px;
+    margin:auto;
+    color: white; 
+    font-size: small;
+}
+.db1{
+    animation-name: yc;
+    animation-delay: 7.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 2000px;
+    left: 300px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.db2{
+    animation-name: yc;
+    animation-delay: 17.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:1000px;
+    bottom: 0px;
+    left: 0px;
+    right: 750px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.db3{
+    animation-name: yc;
+    animation-delay: 27.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:2340px;
+    bottom: 0px;
+    left: 450px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.xb1{
+    animation-name: yc;
+    animation-delay: 8.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 2130px;
+    left: 436px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.xb2{
+    animation-name: yc;
+    animation-delay: 18.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 340px;
+    left: 234px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.xb3{
+    animation-name: yc;
+    animation-delay: 28.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:3200px;
+    bottom: 0px;
+    left: 0px;
+    right: 540px;
+    margin:auto;
+    color: white; 
+    font-size: 1fr;
+}
+.zr1{
+    animation-name: yc;
+    animation-delay: 9.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 1450px;
+    left: 1230px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: 2pc;
+}
+.zr2{
+    animation-name: yc;
+    animation-delay: 19.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:2340px;
+    bottom: 0px;
+    left: 0px;
+    right: 220px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.zr3{
+    animation-name: yc;
+    animation-delay: 29.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:1023px;
+    bottom: 0px;
+    left: 0px;
+    right: 1230px;
+    margin:auto;
+    color: white; 
+    font-size: larger;
+}
+.ls1{
+    animation-name: yc;
+    animation-delay: 3.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.ls2{
+    animation-name: yc;
+    animation-delay: 14.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom:2560px;
+    left: 340px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.ls3{
+    animation-name: yc;
+    animation-delay: 24.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:4560px;
+    bottom: 0px;
+    left: 21430px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.jy1{
+    animation-name: yc;
+    animation-delay: 5.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:1450px;
+    bottom: 0px;
+    left: 320px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.jy2{
+    animation-name: yc;
+    animation-delay: 17.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 5460px;
+    left: 0px;
+    right: 332px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.jy3{
+    animation-name: yc;
+    animation-delay: 28.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 2230px;
+    left: 120px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.yw1{
+    animation-name: yc;
+    animation-delay: 5.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:2340px;
+    bottom: 0px;
+    left: 0px;
+    right: 234px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.yw2{
+    animation-name: yc;
+    animation-delay: 19.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 2340px;
+    left: 0px;
+    right: 450px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.yw3{
+    animation-name: yc;
+    animation-delay: 22.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:3450px;
+    bottom: 0px;
+    left: 0px;
+    right: 430px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.sh1{
+    animation-name: yc;
+    animation-delay: 4.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 2450px;
+    left: 340px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.sh2{
+    animation-name: yc;
+    animation-delay: 6.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:3510px;
+    bottom: 0px;
+    left: 0px;
+    right: 945px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.sh3{
+    animation-name: yc;
+    animation-delay: 29.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:1567px;
+    bottom: 0px;
+    left: 0px;
+    right: 967px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.ys1{
+    animation-name: yc;
+    animation-delay: 3.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 0px;
+    left: 0px;
+    right: 668px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.ys2{
+    animation-name: yc;
+    animation-delay: 7.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 2154px;
+    left: 0px;
+    right: 567px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.ys3{
+    animation-name: yc;
+    animation-delay: 27.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:1765px;
+    bottom: 0px;
+    left: 956px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.jq1{
+    animation-name: yc;
+    animation-delay: 11.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:2845px;
+    bottom: 0px;
+    left: 0px;
+    right: 546px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.jq2{
+    animation-name: yc;
+    animation-delay: 0.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:4456px;
+    bottom: 0px;
+    left: 0px;
+    right: 546px;
+    margin:auto;
+    color: white; 
+    font-size: xx-large;
+}
+.jq3{
+    animation-name: yc;
+    animation-delay: 23.5s;/*动画延迟*/
+    animation-duration:2s ;/*播放时间*/
+    animation-fill-mode: forwards;
+    height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 2340px;
+    left: 0px;
+    right: 0px;
+    margin:auto;
+    color: white; 
+    font-size: 3cm;
+}
