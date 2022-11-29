@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="./主页1.css">
+    <title>Document</title>
+    <script type="text/javascript">
+        window.onload = function(){
+            var time = 54;
+            var secondEle = document.getElementById("second");
+            var timer = setInterval(function(){
+                secondEle.innerHTML = time;
+                time--;
+                if(time==0){
+                    clearInterval(timer);
+                   location.href="主页2.html";
+                }
+                    
+            },1000);
+        }
+    </script>
+    </div>
+</head>
+<body style="background-color: black;">
+    <div class="b" >
+        <div >
+        <video width="100%" height="680" controls="controls" autoplay="autoplay">
+            <source src="./视频1.mp4" type="video/ogg" />
+            <source src="./视频1.mp4" type="video/mp4" />
+            <source src="./视频1.mp4" type="video/webm" />
+            <object data="./视频1.mp4" width="320" height="240">
+            <embed width="320" height="240" src="/i/movie.swf" />
+            </object>
+        </div>
+    </div>
+    <span style="color:red" id="second">54</span>
+</body>
+</html>
