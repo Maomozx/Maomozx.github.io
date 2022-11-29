@@ -1,0 +1,24 @@
+body{background-color: black;}
+.box1{height: 20px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin:auto;
+    background-color: red;
+    color: white;
+    border-radius: 30px; 
+    cursor: pointer;
+}
+.box1>div{position: absolute;
+    height: max-content;
+    width: max-content;
+    top:0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin:auto;
+   
+}
